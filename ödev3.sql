@@ -1,6 +1,6 @@
 --1. select country from country where country ilike 'A%a';
 
---2. select country from country where length(country)>=6 and country ilike '%n';
+--2. select country from country where country like '______%' and country ilike '%n';
 
 --3. select title from film where title like '%t%t%t%t%';
 
