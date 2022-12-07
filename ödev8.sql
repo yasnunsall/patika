@@ -66,4 +66,5 @@ birthday = '2001-01-02' where id = 40 returning * ;
 --4
 delete from employee
 where id = 40 returning *;
+*/
 
